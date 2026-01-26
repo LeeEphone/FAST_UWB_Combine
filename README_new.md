@@ -1,9 +1,5 @@
-[# FAST_UWB_Combine
-用于500米口径球面射电望远镜(FAST)超宽带数据拼接的Python程序]
-(https://img.shields.io/badge/FAST-500m%2520Aperture%2520Spherical%2520Telescope-blue
-https://img.shields.io/badge/python-3.9%252B-blue
-https://img.shields.io/badge/license-MIT-green
-https://img.shields.io/badge/built%2520with-astropy-orange
+[# FAST_UWB_Combine 用于500米口径球面射电望远镜(FAST)超宽带数据拼接的Python程序]
+
 用于500米口径球面射电望远镜(FAST)超宽带数据拼接的Python程序。
 
 该程序将UWB1、UWB2、UWB3、UWB4四个子波段的观测数据合并为连续的宽带数据。
